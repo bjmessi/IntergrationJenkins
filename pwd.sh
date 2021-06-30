@@ -8,8 +8,3 @@ date
 
 
 ls -la
-
-
-read Name
-
-echo "$Name"
